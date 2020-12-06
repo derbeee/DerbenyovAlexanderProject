@@ -12,5 +12,6 @@ public class Pet {
         name = n;
         age = a;
         System.out.println(name + "  " + age);
+
     }
 }
