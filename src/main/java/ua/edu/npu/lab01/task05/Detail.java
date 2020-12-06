@@ -74,5 +74,6 @@ public class Detail {
         }
         System.out.println("time has passed since writing the program: " + d + " day " + m + "  month " + y + " year");
         return 0;
+
     }
 }
