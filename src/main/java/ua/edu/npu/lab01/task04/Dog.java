@@ -22,5 +22,6 @@ public class Dog extends Application{
         numb++;
 
         System.out.println("the number of objects created: " + numb);
+
     }
 }
