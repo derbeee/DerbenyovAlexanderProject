@@ -11,5 +11,6 @@ public abstract class Pet {
     public Pet(String n, int a) {
         name = n;
         age = a;
+
     }
 }
