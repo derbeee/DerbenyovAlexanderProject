@@ -1,6 +1,6 @@
 package ua.edu.npu.lab02.task04;
 
-public class Eagle implements Flying {
+public class Eagle implements Flying, Talking, Walking {
     public static void main(String[] args) {
         Eagle eagle = new Eagle();
         eagle.fly();
