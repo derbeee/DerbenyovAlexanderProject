@@ -27,5 +27,6 @@ public class Duck extends Pet implements Flying {
     public void walking() {
         System.out.println("i go");
     }
+
 }
 
