@@ -11,5 +11,6 @@ public class Application {
         s.modaResult();
         s.median();
         s.lassAverage();
+
     }
 }
