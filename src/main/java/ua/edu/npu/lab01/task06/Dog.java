@@ -14,5 +14,6 @@ public class Dog {
         name =name;
         System.out.println("name: "+ name);
         System.out.println("age: "+ age);
+
     }
 }
